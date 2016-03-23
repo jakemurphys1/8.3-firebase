@@ -1,6 +1,6 @@
 var $ = require("jquery");
 var Firebase = require("firebase")
-  //$(".messageContainer").hide();
+  $(".messageContainer").hide();
 
 $(function(){
 
